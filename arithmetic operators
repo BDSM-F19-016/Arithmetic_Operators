@@ -1,0 +1,35 @@
+# Addition: +
+a = 11
+b = 3
+c = a + b
+print(c)
+# Subtraction: -
+a = 11
+b = 3
+c = a - b
+print(c)
+# Multiplication: *
+a = 11
+b = 3
+c = a * b
+print(c)
+# Division: /
+a = 11
+b = 3
+c = a / b
+print(c)
+# Modulus: %
+a = 11
+b = 3
+c = a % b
+print(c)
+# Exponentiation: **
+a = 11
+b = 3
+c = a ** b
+print(c)
+# Floor Division: //
+a = 11
+b = 3
+c = a // b
+print(c)
